@@ -1,0 +1,6 @@
+﻿  WorkWithFile.cpp
+e:\books\институт\информатика\shipelov\lab#6\workwithfile\workwithfile\workwithfile.cpp(29): warning C4018: <: несоответствие типов со знаком и без знака
+e:\books\институт\информатика\shipelov\lab#6\workwithfile\workwithfile\workwithfile.cpp(32): warning C4018: <: несоответствие типов со знаком и без знака
+e:\books\институт\информатика\shipelov\lab#6\workwithfile\workwithfile\workwithfile.cpp(14): warning C4101: str: неиспользованная локальная переменная
+  WorkWithFile.vcxproj -> E:\books\институт\Информатика\SHIPELOV\lab#6\WorkWithFile\Debug\WorkWithFile.exe
+  WorkWithFile.vcxproj -> E:\books\институт\Информатика\SHIPELOV\lab#6\WorkWithFile\Debug\WorkWithFile.pdb (Partial PDB)
